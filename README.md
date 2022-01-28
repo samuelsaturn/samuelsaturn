@@ -1,16 +1,22 @@
 ![céu](https://imgur.com/JpYkamp.png)
 
-## - Opa, meu nome é Samuel Mathias :)
-### - 📚 Estudante de Desenvolvimento Web Full Stack Jr. 
+## - Oii, eu sou o Samuel Mathias 😎👍
+### - 📚 Estudante de Desenvolvimento Web Full Stack Jr. em Linguagem Java
 
+</div>
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsaturn&layout=compact&langs_count=7&theme=dracula"/>
+<h1> Statistics GitHub </h1>
+
+<div>
+<a href="https://github.com/samuelsaturn"> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>  
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsaturn&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
   
+------
   
+ 
 ***perfil em construção...***
 
 
