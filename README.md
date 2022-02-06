@@ -1,21 +1,25 @@
 ![céu](https://imgur.com/JpYkamp.png)
 
-## - Oii, eu sou o Samuel Mathias 😎👍
-### - 📚 Estudante de Desenvolvimento Web Full Stack Jr. em Linguagem Java
+<h2 align="center">🌠 Opa, boas-vindas ao meu GitHub! 🌠</h2>
 
-</div>
+---
 
-<h1> Statistics GitHub </h1>
+- 💻 Estudante de Desenvolvimento Web Full Stack Jr. em Linguagem Java 
+- 📚 Cursando o último semestre de Técnico em Administração
+- 🌌 Curiosidade: Apaixonado por Astronomia, Psicologia e Filosofia.
+- ♾️ Sempre me desenvolvendo até alcançar o infinito
 
-<div>
+---
+
+<h2 align="center"> Statistic GitHub </h2>
+
+<div align="center"><br>
   
   <a href="https://github.com/samuelsaturn"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsaturn&layout=compact&langs_count=7&theme=dark"/>
-
-</div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/></a>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsaturn&layout=compact&langs_count=7&theme=cobalt"/>
   
-------
+---
   
  
 ***perfil em construção...***
