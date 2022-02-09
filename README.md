@@ -18,7 +18,7 @@
 <div align="center"><br>
   
   <a href="https://github.com/samuelsaturn"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/></a>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=false"/></a>  
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsaturn&layout=compact&langs_count=7&theme=cobalt"/>
   
 </div>
