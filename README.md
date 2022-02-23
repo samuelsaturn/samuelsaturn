@@ -1,4 +1,4 @@
-<img align='center' src="https://imgur.com/JpYkamp.png" width="1000" height="200">
+![céu](https://imgur.com/JpYkamp.png)
 
 <h1 align="center">🌠 Opa, boas-vindas ao meu GitHub! 🌠</h1>
 
@@ -21,8 +21,8 @@
 <div align="center"><br>
   
   <a href="https://github.com/samuelsaturn"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=false"/></a>  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=false"/></a>  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark"/>
   
 </div>
 
