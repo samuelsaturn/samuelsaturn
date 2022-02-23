@@ -4,6 +4,9 @@
 
 ---
 
+<img align='right' src="https://imgur.com/GWqNzEx.gif" width="150" height="140">
+
+
 - 💻 Estudante de Desenvolvimento Web Full Stack Jr. em Linguagem Java 
 - 📚 Cursando o último semestre de Técnico em Administração
 - 🌌 Curiosidade: Apaixonado por Astronomia, Psicologia e Filosofia.
@@ -13,31 +16,27 @@
 ---
 
 
-<h2 align="center"> Statistic GitHub </h2>
+<h2 align="center"> Statistic GitHub 📈 </h2>
 
 <div align="center"><br>
   
   <a href="https://github.com/samuelsaturn"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=false"/></a>  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsaturn&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=false"/></a>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark"/>
   
 </div>
 
 <div align="center"><br>
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="46" width="65" align="center">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="46" width="65" align="center">
-  
-  
----
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="46" width="65" align="center"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot" height="46" width="65" align="center"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="80" align="center"> 
+     
+---  
 ## SPOTIFY PLAYING 🎧
 
-<div align="center"><br>
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j9a9tetmkafs7ymqw5mv00o5g) ![teste](https://imgur.com/4EbbEaX.gif) 
-  
-<div align="center"><br>
+![spotify](https://spotify-recently-played-readme.vercel.app/api?user=j9a9tetmkafs7ymqw5mv00o5g) ![saturno](https://imgur.com/4EbbEaX.gif) 
   
 ---  
   
