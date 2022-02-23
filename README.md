@@ -1,6 +1,6 @@
-![céu](https://imgur.com/JpYkamp.png)
+<img align='center' src="https://imgur.com/JpYkamp.png" width="1000" height="200">
 
-<h2 align="center">🌠 Opa, boas-vindas ao meu GitHub! 🌠</h2>
+<h1 align="center">🌠 Opa, boas-vindas ao meu GitHub! 🌠</h1>
 
 ---
 
@@ -34,7 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="80" align="center"> 
      
 ---  
-## SPOTIFY PLAYING 🎧
+<h2 align="center"> SPOTIFY PLAYING 🎧 </h2>  
 
 ![spotify](https://spotify-recently-played-readme.vercel.app/api?user=j9a9tetmkafs7ymqw5mv00o5g) ![saturno](https://imgur.com/4EbbEaX.gif) 
   
