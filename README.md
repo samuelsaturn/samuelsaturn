@@ -20,9 +20,9 @@
 
 <div align="center"><br>
   
-  <a href="https://github.com/samuelsaturn"> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=false"/></a>  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsaturn&layout=compact&langs_count=7&theme=vue-dark"/>
+ 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=false"/>  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsaturn&layout=compact&langs_count=7&theme=vue-dark"/>
   
 
   
@@ -34,6 +34,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="46" width="65" align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot" height="46" width="65" align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="80" align="center"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" height="46" width="65" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" height="46" width="65" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" height="46" width="65" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript" height="46" width="65" align="center">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="46" width="65" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="65" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="65" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="65" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="65" align="center">  
+  
+  
      
 ---  
 <h2 align="center"> SPOTIFY PLAYING 🎧 </h2>  
