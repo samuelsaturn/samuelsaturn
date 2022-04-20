@@ -2,12 +2,18 @@
 
 <h1 align="center">🌠 Opa, boas-vindas ao meu GitHub! 🌠</h1>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=5000&color=63D6B5&center=true&vCenter=true&width=650&lines=Olá,+meu+nome+é+Samuel+Mathias;+Mas+podem+me+chamar+de+Saturno+🪐;Estou+iniciando+minha+carreira+profissional;Empolgado+para+adquirir+mais+conhecimento;e+experiência+😄;me+contrata+pfv+🙏)](https://git.io/typing-svg)
+  
+</div>  
+
 ---
 
 <img align='right' src="https://imgur.com/GWqNzEx.gif" width="150" height="140">
 
 
-- 💻 Estudante de Desenvolvimento Web Full Stack Jr. em Linguagem Java 
+- 💻 Desenvolvedor Full Stack Java Júnior 
 - 📚 Cursando o último semestre de Técnico em Administração
 - 🌌 Curiosidade: Apaixonado por Astronomia, Psicologia e Filosofia.
 - ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito
