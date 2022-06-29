@@ -10,6 +10,8 @@
 
 ---
 
+<img align='right' src="https://imgur.com/GWqNzEx.gif" width="150" height="140">
+
 - 💻 Desenvolvedor Full Stack Java Júnior 
 - 📚 Cursando o último semestre de Técnico em Administração
 - 🌌 Curiosidade: Apaixonado por Astronomia, Psicologia e Filosofia.
