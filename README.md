@@ -13,8 +13,8 @@
 <img align='right' src="https://imgur.com/GWqNzEx.gif" width="150" height="140">
 
 - 💻 Desenvolvedor Full Stack Java Júnior 
-- 📚 Cursando o último semestre de Técnico em Administração
-- 🌌 Curiosidade: Apaixonado por Astronomia, Psicologia e Filosofia.
+- 📚 Formação Técnica em Administração
+- 🌌 Apaixonado por Astronomia, Psicologia e Filosofia
 - ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito
 - 😄 Pronomes: Ele/Dele
 
@@ -26,7 +26,7 @@
 <div align="center"><br>
   
  
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelsaturn&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=false"/>  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsaturn&layout=compact&langs_count=7&theme=vue-dark"/>
   
 
