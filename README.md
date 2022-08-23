@@ -10,7 +10,7 @@
 
 ---
 
-<img align='right' src="https://imgur.com/GWqNzEx.gif" width="150" height="140">
+<img align='right' src="https://imgur.com/GWqNzEx.png" width="150" height="140">
 
 - 💻 Desenvolvedor Full Stack Java Júnior 
 - 📚 Formação Técnica em Administração
@@ -54,7 +54,7 @@
 ---  
 <h2 align="center"> SPOTIFY PLAYING 🎧 </h2>  
 
-![spotify](https://spotify-recently-played-readme.vercel.app/api?user=j9a9tetmkafs7ymqw5mv00o5g) ![saturno](https://imgur.com/4EbbEaX.gif) 
+![spotify](https://spotify-recently-played-readme.vercel.app/api?user=j9a9tetmkafs7ymqw5mv00o5g) ![saturno](https://imgur.com/4EbbEaX.png) 
   
 ---  
   
