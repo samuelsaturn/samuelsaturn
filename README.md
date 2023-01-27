@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=5000&color=63D6B5&center=true&vCenter=true&width=650&lines=Olá,+meu+nome+é+Samuel+Mathias;+Mas+podem+me+chamar+de+Saturno+🪐;Estou+iniciando+minha+carreira+profissional;Empolgado+para+adquirir+mais+conhecimento;e+experiência+😄;me+contrata+pfv+🙏)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=5000&color=63D6B5&center=true&vCenter=true&width=650&lines=Olá,+meu+nome+é+Samuel+Mathias;+Mas+podem+me+chamar+de+Saturno+🪐;Estou+iniciando+minha+carreira+profissional;Empolgado+para+adquirir+mais+conhecimento;e+experiência+😄)](https://git.io/typing-svg)
   
 </div>  
 
