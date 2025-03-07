@@ -1,6 +1,6 @@
 ![céu](https://imgur.com/JpYkamp.png)
 
-<h1 align="center">🌠 Opa, boas-vindas ao meu GitHub! 🌠</h1>
+<h1 align="center">🌠 Boas-vindas ao meu GitHub! 🌠</h1>
 
 <div align="center">
   
