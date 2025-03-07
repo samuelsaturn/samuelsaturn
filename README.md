@@ -12,7 +12,8 @@
 
 <img align='right' src="https://imgur.com/GWqNzEx.png" width="150" height="140">
 
-- 💻 Desenvolvedor Full Stack Java Júnior 
+- 💻 Data Engineer e Developer Jr.
+- 👩‍💻 Mais de 1 Ano de Experiência
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🎓 Formação Técnica em Administração
 - 🌌 Apaixonado por Tecnologia, Astronomia e Psicologia
