@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=5000&color=63D6B5&center=true&vCenter=true&width=650&lines=Olá,+meu+nome+é+Samuel+Mathias;+Mas+podem+me+chamar+de+Saturno+🪐;Estou+iniciando+minha+carreira+profissional;Empolgado+para+adquirir+mais+conhecimento;e+experiência+😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=5000&color=63D6B5&center=true&vCenter=true&width=650&lines=Olá,+meu+nome+é+Samuel+Mathias;+Mas+podem+me+chamar+de+Saturno+🪐;Sou+Data+Engineer+e+Developer;Tenho+mais+de+1+ano+de+experiência;Sempre+me+aprimorando;Caso+queira+conversar+sobre+entre+em+contato+😉)](https://git.io/typing-svg)
   
 </div>  
 
@@ -15,8 +15,7 @@
 - 💻 Desenvolvedor Full Stack Java Júnior 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🎓 Formação Técnica em Administração
-- 🌌 Apaixonado por Astronomia, Psicologia e Filosofia
-- ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito
+- 🌌 Apaixonado por Tecnologia, Astronomia e Psicologia
 
 ---
 
