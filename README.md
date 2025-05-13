@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=5000&color=63D6B5&center=true&vCenter=true&width=650&lines=Olá,+meu+nome+é+Samuel+Mathias;+Mas+podem+me+chamar+de+Saturno+🪐;Sou+Data+Engineer+e+Developer;Tenho+mais+de+2+ano+de+experiência;Sempre+me+aprimorando;Caso+queira+conversar+sobre+entre+em+contato+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=5000&color=63D6B5&center=true&vCenter=true&width=650&lines=Olá,+meu+nome+é+Samuel+Mathias;+Mas+podem+me+chamar+de+Saturno+🪐;Sou+Data+Engineer+e+Developer;Tenho+mais+de+2+anos+de+experiência;Sempre+me+aprimorando;Caso+queira+conversar+sobre+entre+em+contato+😉)](https://git.io/typing-svg)
   
 </div>  
 
@@ -13,7 +13,7 @@
 <img align='right' src="https://imgur.com/GWqNzEx.png" width="150" height="140">
 
 - 💻 Data Engineer e Developer Jr.
-- 👩‍💻 Mais de 1 Ano de Experiência
+- 👩‍💻 Mais de 2 Anos de Experiência
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🎓 Formação Técnica em Administração
 - 🌌 Apaixonado por Tecnologia, Astronomia e Psicologia
