@@ -12,10 +12,9 @@
 
 <img align='right' src="https://imgur.com/GWqNzEx.png" width="150" height="140">
 
-- 💻 Data Engineer e Developer Jr.
+- 💻 Data Engineer e Developer
 - 👩‍💻 Mais de 2 Anos de Experiência
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🎓 Formação Técnica em Administração
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas (UniAmérica)
 - 🌌 Apaixonado por Tecnologia, Astronomia e Psicologia
 
 ---
